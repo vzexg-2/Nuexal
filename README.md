@@ -6,4 +6,4 @@ Nuexal gave u two options, adb shell for non root and direct change file_system 
 my discord usn: sxc_qq1
 my email: sunshinexjuhari@protonmail.com
 
-![Image Description](https://raw.githubusercontent.com/vzexg-2/repository/main/images/your-image.png)
+![Banner Rahhh](https://github.com/vzexg-2/Nuexal/images/images.jpg)
