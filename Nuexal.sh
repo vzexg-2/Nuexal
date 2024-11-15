@@ -16,7 +16,6 @@ set -euo pipefail
 
 : << 'COMMENT_1'
 
-WELL HELLO DEOBFUSCATOR FUCKING USER, OR HALO MEK.
 
 License is valid till 12 July, 2025 because I set it to be that date.
   You can upgrade the license by contacting sunshinexjuhari@protonmail.com 
