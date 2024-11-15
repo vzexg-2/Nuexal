@@ -67,6 +67,7 @@ INFO_SYMBOL="ℹ"         # Idk what this is
 SCRIPT_NAME="Nuexal"  
 VERSION="v2.1"        
 CREATOR="sxc_qq1 | sunshinexjuhari@protonmail.com" # do not change this shit I'll track your fucking ADDRESS
+GITHUB="vzexg-2"
 
 cihuy() { 
     local tgl=$(date +%Y-%m-%d); 
@@ -82,7 +83,8 @@ show_info() {
     echo -e "${BLUE}Script Name: ${SCRIPT_NAME}${NC}"
     echo -e "${BLUE}Version: ${VERSION}${NC}"
     echo -e "${BLUE}Creator: ${CREATOR}${NC}"
-    echo -e "
+    echo -e "${BLUE}GitHub: ${GITHUB}${NC}"
+    echo "
 NuexaI is a script module that focuses in performance and stability 
 Also using adb shell is not that effective but using root is more effective since it has access directly to the file system amd configuration.
  
